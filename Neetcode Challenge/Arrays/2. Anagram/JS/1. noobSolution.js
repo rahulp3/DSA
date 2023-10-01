@@ -8,10 +8,6 @@ Memory for 'n' test cases  : 43.78MB
 Author : CrypticSocket
 /*
 
-// 
-// 
-// 
-
 /**
  * @param {string} s
  * @param {string} t

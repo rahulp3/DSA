@@ -8,8 +8,6 @@ Memory for 'n' test cases  : 46.57MB
 Author : CrypticSocket
 /*
 
-// 
-
 /**
  * @param {number[]} nums
  * @return {number[]}
