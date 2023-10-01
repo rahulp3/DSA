@@ -1,6 +1,16 @@
-// Basic Solution
-// Runtime for 'n' test cases : 68ms
-// Memory for 'n' test cases  : 43.78MB
+/* 
+Valid Anagram
+https://leetcode.com/problems/valid-anagram/
+
+Basic Solution
+Runtime for 'n' test cases : 68ms
+Memory for 'n' test cases  : 43.78MB
+Author : CrypticSocket
+/*
+
+// 
+// 
+// 
 
 /**
  * @param {string} s
